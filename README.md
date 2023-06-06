@@ -9,9 +9,17 @@ Proposal: the idea of this training session is to present the basic concepts of 
 ## Agenda [Monday, 10th July 2023]
 
 ### Session 1
-
-- What's sentiment analysis/ How was it developed? For which purpose? / How does it work computationally?/ Differences between dictionary-based and contextual-based/ How transformers models have changed it?/ 
-- What are the types of SA: document-level, aspect-based...
+s
+- Sentiment Analysis
+  - What's sentiment analysis
+  - How was it developed? 
+  - For which purpose? 
+  - How does it work computationally?
+  - Differences between dictionary-based and contextual-based 
+  - How transformers models have changed it? 
+- What are the types of SA: 
+  - document-level, 
+  - aspect-based...
 - Exercise: try the following and see sucess and failure:
   - Negation
   - Metaphor
@@ -34,15 +42,5 @@ Proposal: the idea of this training session is to present the basic concepts of 
 
 
 
-## TODO/Ideas/Tasks/Discussion
-### Session 1
-- [ ]
-- [ ]
-### Session 2
-- [ ]
-- [ ]
-### Session 3
-- [ ]
-- [ ]
 
 
