@@ -6,10 +6,9 @@ Pre-requisite: I would like it to be open for people without coding experience. 
 Proposal: the idea of this training session is to present the basic concepts of **Sentiment Analysis**, focusing especially on its **potentialities** and **limitations** for _research in the humanities_. Some of the topics I'd like to cover are:
 
 
-## Agenda [Monday, 10th July 2023]
+## Agenda Monday, 10th July 2023
 
 ### Session 1
-s
 - Sentiment Analysis
   - What's sentiment analysis
   - How was it developed? 
