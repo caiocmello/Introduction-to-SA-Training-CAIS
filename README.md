@@ -3,7 +3,7 @@ Designing the Introduction to Sentiment Analysis training session at CAIS
 
 Pre-requisite: I would like it to be open for people without coding experience. This way, it would be good to have everything running on Google collab so participants and just run cells and analyse outputs. 
 
-Proposal: the idea of this training session is to present the basic concepts of Sentiment Analysis, focusing especially on its potentialities and limitations for research in the humanities. Some of the topics I'd like to cover are:
+Proposal: the idea of this training session is to present the basic concepts of **Sentiment Analysis**, focusing especially on its **potentialities** and **limitations** for _research in the humanities_. Some of the topics I'd like to cover are:
 
 
 ## Agenda [Monday, 10th July 2023]
