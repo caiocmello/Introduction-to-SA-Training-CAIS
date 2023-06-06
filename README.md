@@ -1,4 +1,4 @@
-# Introduction-to-SA-Training-CAIS
+# Introduction to SA Training CAIS
 Designing the Introduction to Sentiment Analysis training session at CAIS 
 
 Pre-requisite: I would like it to be open for people without coding experience. This way, it would be good to have everything running on Google collab so participants and just run cells and analyse outputs. 
