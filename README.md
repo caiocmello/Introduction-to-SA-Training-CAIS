@@ -7,7 +7,7 @@ In this workshop, participants will take part in exercises to explore one of the
 
 The workshop targets especially researchers and students in the Humanities and Social Sciences with special interest in automated text analysis. Knowledge of coding is not a prerequisite. As an introductory course, it will use code but the focus is instead on the critical analysis of the method and its usability. 
 
-Facilitators: 
+### Facilitators: 
 
 - Caio Mello
 Caio is a Fellow at the Center for Advanced Internet Studies, where he conducts research on sentiment analysis applied to news articles. He is also a PhD candidate at the School of Advanced Study (University of London) in Digital Humanities. 
