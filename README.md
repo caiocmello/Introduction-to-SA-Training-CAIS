@@ -43,8 +43,8 @@ Proposal: the idea of this training session is to present the basic concepts of 
 ## References
 
 ### Tutorials
-Jennifer Isasi, "Sentiment Analysis with 'syuzhet' using R," translated by Adam Crymble, Programming Historian 12 (2023), https://doi.org/10.46430/phen0110.
-Zoë Wilkinson Saldaña, "Sentiment Analysis for Exploratory Data Analysis," Programming Historian 7 (2018), https://doi.org/10.46430/phen0079.
+- Jennifer Isasi, "Sentiment Analysis with 'syuzhet' using R," translated by Adam Crymble, Programming Historian 12 (2023), https://doi.org/10.46430/phen0110.
+- Zoë Wilkinson Saldaña, "Sentiment Analysis for Exploratory Data Analysis," Programming Historian 7 (2018), https://doi.org/10.46430/phen0079.
 
 ### Papers
 - Dashtipour, Kia, Soujanya Poria, Amir Hussain, Erik Cambria, Ahmad Y. A. Hawalah, Alexander Gelbukh, and Qiang Zhou. 2016. ‘Multilingual Sentiment Analysis: State of the Art and Independent Comparison of Techniques’. Cognitive Computation 8 (4): 757–71. https://doi.org/10.1007/s12559-016-9415-7.
