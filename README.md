@@ -9,13 +9,13 @@ The workshop targets especially researchers and students in the Humanities and S
 
 ##### Facilitators: 
 
-- Caio Mello
+- [Caio Mello](https://www.cais-research.de/fellows/caio-mello/)<br>
 Caio is a Fellow at the Center for Advanced Internet Studies, where he conducts research on sentiment analysis applied to news articles. He is also a PhD candidate at the School of Advanced Study (University of London) in Digital Humanities. 
 
-- Dr. Gaurish Thakkar 
+- [Dr. Gaurish Thakkar](https://thak123.github.io/)<br> 
 Gaurish Thakkar is a research fellow at the University of Zagreb (Faculty of Humanities and Social Sciences), where he works on cross-lingual sentiment analysis for under-resourced languages.
 
-- Dr. Johannes Breuer
+- [Dr. Johannes Breuer](https://www.cais-research.de/team/johannes-breuer/)<br>
 Dr. Breuer is a senior researcher in the team Survey Data Augmentation at GESIS - Leibniz Institute for the Social Sciences (Department Survey Data Curation) in Cologne, Germany, and (co-)leads the team Research Data & Methods at the Center for Advanced Internet Studies (CAIS).
 
 
