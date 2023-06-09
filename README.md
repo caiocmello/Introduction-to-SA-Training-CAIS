@@ -16,11 +16,11 @@ Caio is a Fellow at the Center for Advanced Internet Studies, where he conducts 
 Gaurish Thakkar is a research fellow at the University of Zagreb (Faculty of Humanities and Social Sciences), where he works on cross-lingual sentiment analysis for under-resourced languages.
 
 - Dr. Johannes Breuer
-Dr. Breuer is a senior researcher in the team Survey Data Augmentation at GESIS - Leibniz Institute for the Social Sciences (Department Survey Data Curation) in Cologne, Germany, and (co-)leads the team Research Data & Methods at the Center for Advanced Internet Studies (CAIS).
+Dr. Breuer is a senior researcher in the team Survey Data Augmentation at GESIS - Leibniz Institute for the Social Sciences (Department Survey Data Curation) in Cologne, Germany, and (co-)leads the team Research Data & Methods at the Center for Advanced Internet Studies (CAIS).</p>
 
 
 
-## Agenda Monday, 10th July 2023
+## Agenda 
 
 ### Session 1
 - Sentiment Analysis
