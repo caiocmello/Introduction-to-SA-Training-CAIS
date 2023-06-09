@@ -1,9 +1,23 @@
-# Introduction to SA Training CAIS
-Designing the Introduction to Sentiment Analysis training session at CAIS 
+# Introduction to Sentiment Analysis: Potentials and limitations
 
-Pre-requisite: I would like it to be open for people without coding experience. This way, it would be good to have everything running on Google collab so participants and just run cells and analyse outputs. 
+Monday, 10th of July 10:00 to 13:00
+Place: Center for Advanced Internet Studies (Fully online)
 
-Proposal: the idea of this training session is to present the basic concepts of **Sentiment Analysis**, focusing especially on its **potentialities** and **limitations** for _research in the humanities_. Some of the topics I'd like to cover are:
+In this workshop, participants will take part in exercises to explore one of the most used Natural Language Processing techniques in the field of Digital Humanities. We are going to cover the history of Sentiment Analysis, how it has changed over time, how it can be applied to research in the humanities & social sciences and more importantly, what its potentials as well as its limitations are.  
+
+The workshop targets especially researchers and students in the Humanities and Social Sciences with special interest in automated text analysis. Knowledge of coding is not a prerequisite. As an introductory course, it will use code but the focus is instead on the critical analysis of the method and its usability. 
+
+Facilitators: 
+
+- Caio Mello
+Caio is a Fellow at the Center for Advanced Internet Studies, where he conducts research on sentiment analysis applied to news articles. He is also a PhD candidate at the School of Advanced Study (University of London) in Digital Humanities. 
+
+- Dr. Gaurish Thakkar 
+Gaurish Thakkar is a research fellow at the University of Zagreb (Faculty of Humanities and Social Sciences), where he works on cross-lingual sentiment analysis for under-resourced languages.
+
+- Dr. Johannes Breuer
+Dr. Breuer is a senior researcher in the team Survey Data Augmentation at GESIS - Leibniz Institute for the Social Sciences (Department Survey Data Curation) in Cologne, Germany, and (co-)leads the team Research Data & Methods at the Center for Advanced Internet Studies (CAIS).
+
 
 
 ## Agenda Monday, 10th July 2023
