@@ -1,7 +1,7 @@
 # Introduction to Sentiment Analysis: Potentials and limitations
 
-Monday, 10th of July 10:00 to 13:00
-Place: Center for Advanced Internet Studies (Fully online)
+*Monday, 10th of July 10:00 to 13:00 |
+Place: Center for Advanced Internet Studies (Fully online)*
 
 In this workshop, participants will take part in exercises to explore one of the most used Natural Language Processing techniques in the field of Digital Humanities. We are going to cover the history of Sentiment Analysis, how it has changed over time, how it can be applied to research in the humanities & social sciences and more importantly, what its potentials as well as its limitations are.  
 
