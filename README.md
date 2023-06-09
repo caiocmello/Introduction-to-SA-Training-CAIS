@@ -58,6 +58,7 @@ Dr. Breuer is a senior researcher in the team Survey Data Augmentation at GESIS 
 
 #### Tutorials
 - Jennifer Isasi, "Sentiment Analysis with 'syuzhet' using R," translated by Adam Crymble, Programming Historian 12 (2023), https://doi.org/10.46430/phen0110.
+- Arturo Soberón, Interpreting Machine Learning models using LIME and SHAP (2023). [Available on Medium](https://svitlasystems.medium.com/interpreting-machine-learning-models-using-lime-and-shap-by-arturo-sober%C3%B3n-senior-data-scientis-12188f3e24dc). 
 - Zoë Wilkinson Saldaña, "Sentiment Analysis for Exploratory Data Analysis," Programming Historian 7 (2018), https://doi.org/10.46430/phen0079.
 
 #### Papers
