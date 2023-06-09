@@ -52,6 +52,12 @@ Proposal: the idea of this training session is to present the basic concepts of 
 - Patel, Sangita N, and Jignya B Choksi. 2013. ‘A Survey of Sentiment Classification Techniques’ 01 (01). https://dl.acm.org/doi/10.1145/2436256.2436274
 - Puschmann, Cornelius, and Alison Powell. 2018. ‘Turning Words Into Consumer Preferences: How Sentiment Analysis Is Framed in Research and the News Media’. Social Media + Society 4 (3): 205630511879772. https://doi.org/10.1177/2056305118797724.
 
+### Infographic
+- [Living with Machines](https://images.squarespace-cdn.com/content/v1/5d23a26521738200016f8cb6/ec82b182-6351-4f3f-8e37-6436e8187e3e/BL_INDUSTRY_FINAL2002.jpg?format=1000w) 
+Exhibition ['Visualising Victorian News'](https://www.bl.uk/events/visualising-victorian-news), British Library (2022) 
+Designer: [Ciaran Hughes](https://www.ciaranhughes.design/)
+
+
 
 
 
