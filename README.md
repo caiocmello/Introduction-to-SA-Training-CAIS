@@ -51,7 +51,7 @@ Dr. Breuer is a senior researcher in the team Survey Data Augmentation at GESIS 
 -
 #### Session 3
 
-- [Sentiment analysis beyond text: The curious case of emojis](https://raw.githubusercontent.com/https://github.com/caiocmello/Introduction-to-SA-Training-CAIS/main/session_3/Emoji_Sentiment.pdf)
+- [Sentiment analysis beyond text: The curious case of emojis](https://raw.githubusercontent.com/caiocmello/Introduction-to-SA-Training-CAIS/main/session_3/Emoji_Sentiment.pdf)
   - Emojis
   - Example of sentiment analysis with emojis
   - Limitations and possible next steps
