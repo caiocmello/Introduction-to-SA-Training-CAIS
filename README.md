@@ -15,7 +15,7 @@ Caio is a Fellow at the Center for Advanced Internet Studies, where he conducts 
 - [Dr. Gaurish Thakkar](https://thak123.github.io/)<br> 
 Gaurish Thakkar is a research fellow at the University of Zagreb (Faculty of Humanities and Social Sciences), where he works on cross-lingual sentiment analysis for under-resourced languages.
 
-- [Dr. Johannes Breuer](https://www.cais-research.de/team/johannes-breuer/)<br>
+- [Dr. Johannes Breuer](https://www.johannesbreuer.com/)<br>
 Dr. Breuer is a senior researcher in the team Survey Data Augmentation at GESIS - Leibniz Institute for the Social Sciences (Department Survey Data Curation) in Cologne, Germany, and (co-)leads the team Research Data & Methods at the Center for Advanced Internet Studies (CAIS).
 
 
@@ -51,8 +51,11 @@ Dr. Breuer is a senior researcher in the team Survey Data Augmentation at GESIS 
 -
 #### Session 3
 
-- SA beyond text: analysing sentiment of emojis (By Johannes) 
-
+- [Sentiment analysis beyond text: The curious case of emojis](https://raw.githubusercontent.com/https://github.com/caiocmello/Introduction-to-SA-Training-CAIS/main/session_3/Emoji_Sentiment.pdf)
+  - Emojis
+  - Example of sentiment analysis with emojis
+  - Limitations and possible next steps
+  - Practical: [Sentiment analysis with *ChatGPT*](https://colab.research.google.com/github/caiocmello/Introduction-to-SA-Training-CAIS/blob/main/session_3/Autolabel_Sentiment_Analysis.ipynb)
 
 ### References
 
@@ -66,13 +69,9 @@ Dr. Breuer is a senior researcher in the team Survey Data Augmentation at GESIS 
 - Feldman, Ronen. 2013. ‘Techniques and Applications for Sentiment Analysis’. Communications of the ACM 56 (4): 82. https://doi.org/10.1145/2436256.2436274.
 - Patel, Sangita N, and Jignya B Choksi. 2013. ‘A Survey of Sentiment Classification Techniques’ 01 (01). https://dl.acm.org/doi/10.1145/2436256.2436274
 - Puschmann, Cornelius, and Alison Powell. 2018. ‘Turning Words Into Consumer Preferences: How Sentiment Analysis Is Framed in Research and the News Media’. Social Media + Society 4 (3): 205630511879772. https://doi.org/10.1177/2056305118797724.
+- Rathje, Steven, Dan-Mircea Mirea, Ilia Sucholutsky, Raja Marjieh, Claire E. Robertson, and Jay J. Van Bavel. ‘GPT is an effective tool for multilingual psychological text analysis‘. PsyArXiv. https://doi.org/10.31234/osf.io/sekf5 
 
 #### Infographic
 - [Living with Machines](https://images.squarespace-cdn.com/content/v1/5d23a26521738200016f8cb6/ec82b182-6351-4f3f-8e37-6436e8187e3e/BL_INDUSTRY_FINAL2002.jpg?format=1000w) | 
 Exhibition 'Visualising Victorian News', British Library (2022) 
 Designer: [Ciaran Hughes](https://www.ciaranhughes.design/)
-
-
-
-
-
