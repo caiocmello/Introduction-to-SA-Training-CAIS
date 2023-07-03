@@ -67,9 +67,11 @@ Dr. Breuer is a senior researcher in the team Survey Data Augmentation at GESIS 
 #### Papers
 - Dashtipour, Kia, Soujanya Poria, Amir Hussain, Erik Cambria, Ahmad Y. A. Hawalah, Alexander Gelbukh, and Qiang Zhou. 2016. ‘Multilingual Sentiment Analysis: State of the Art and Independent Comparison of Techniques’. Cognitive Computation 8 (4): 757–71. https://doi.org/10.1007/s12559-016-9415-7.
 - Feldman, Ronen. 2013. ‘Techniques and Applications for Sentiment Analysis’. Communications of the ACM 56 (4): 82. https://doi.org/10.1145/2436256.2436274.
+- Nandwani, P., Verma, R. A review on sentiment analysis and emotion detection from text. Soc. Netw. Anal. Min. 11, 81 (2021). https://doi.org/10.1007/s13278-021-00776-6
 - Patel, Sangita N, and Jignya B Choksi. 2013. ‘A Survey of Sentiment Classification Techniques’ 01 (01). https://dl.acm.org/doi/10.1145/2436256.2436274
 - Puschmann, Cornelius, and Alison Powell. 2018. ‘Turning Words Into Consumer Preferences: How Sentiment Analysis Is Framed in Research and the News Media’. Social Media + Society 4 (3): 205630511879772. https://doi.org/10.1177/2056305118797724.
-- Rathje, Steven, Dan-Mircea Mirea, Ilia Sucholutsky, Raja Marjieh, Claire E. Robertson, and Jay J. Van Bavel. ‘GPT is an effective tool for multilingual psychological text analysis‘. PsyArXiv. https://doi.org/10.31234/osf.io/sekf5 
+- Rathje, Steven, Dan-Mircea Mirea, Ilia Sucholutsky, Raja Marjieh, Claire E. Robertson, and Jay J. Van Bavel. ‘GPT is an effective tool for multilingual psychological text analysis‘. PsyArXiv. https://doi.org/10.31234/osf.io/sekf5
+- Watson, D., & Tellegen, A. 1985. Toward a consensual structure of mood. Psychological bulletin, 98(2), 219.
 
 #### Infographic
 - [Living with Machines](https://images.squarespace-cdn.com/content/v1/5d23a26521738200016f8cb6/ec82b182-6351-4f3f-8e37-6436e8187e3e/BL_INDUSTRY_FINAL2002.jpg?format=1000w) | 
