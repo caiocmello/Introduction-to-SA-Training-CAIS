@@ -25,30 +25,22 @@ Dr. Breuer is a senior researcher in the team Survey Data Augmentation at GESIS 
 #### Session 1
 - Sentiment Analysis
   - What's sentiment analysis
-  - How was it developed? 
-  - For which purpose? 
-  - How does it work computationally?
-  - Differences between dictionary-based and contextual-based 
-  - How transformers models have changed it? 
-- What are the types of SA: 
-  - document-level, 
-  - aspect-based...
-- Exercise: try the following and see sucess and failure:
-  - Negation
-  - Metaphor
-  - Irony/sarcasm
-  - Multilinguality
-  - Product review vs. Tweet vs. Long text (eg. news)
-  - Domain specificity 
-- Maybe explainability???
-
+  - How's it been developed? 
+  - Applications in research 
+  - Hands-on: Classifying text using Asent
+  - Hands-on: Analysing limitations and complex examples
+  - Aspect-based sentiment analysis
+  - Multilinguality: challenges of working beyond English language
+  - Explainability: what's behind the black-boxes?
+    
 #### Session 2
 
-- Case-study: Are news becoming more negative over time? (Based on this experiment I've performed before:https://github.com/caiocmello/news-mood). Here I want to:
-  - Show how SA can be used to respond to real world questions;
-  - Show how to visualise and analyse sentiment
-  - Debate quickly the challenges of working with SA applied to news articles
--
+- Case-study: Is sentiment in the news becoming more negative over time? 
+  - Temporal sentiment analysis of news headlines of BBC articles
+  - Task: Data Analysis
+- Emotion Analysis
+  - Experimenting with Emotion Analysis
+
 #### Session 3
 
 - [Sentiment analysis beyond text: The curious case of emojis](https://raw.githubusercontent.com/caiocmello/Introduction-to-SA-Training-CAIS/main/session_3/Emoji_Sentiment.pdf)
