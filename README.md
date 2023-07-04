@@ -3,9 +3,9 @@
 *Monday, 10th of July 10:00 to 13:00* <br>
 *Place: Center for Advanced Internet Studies (Fully online)*
 
-In this workshop, participants will take part in exercises to explore one of the most used Natural Language Processing techniques in the field of Digital Humanities. We are going to cover the history of Sentiment Analysis, how it has changed over time, how it can be applied to research in the humanities & social sciences and more importantly, what its potentials as well as its limitations are.  
+In this workshop, participants will take part in exercises to explore one of the most widely used Natural Language Processing (NLP) techniques in the fields of Digital Humanities and Computational Social Science. We are going to cover the history of Sentiment Analysis, how it has changed over time, how it can be applied to research in the humanities & social sciences, and, most importantly, what its potentials as well as its limitations are.  
 
-The workshop targets especially researchers and students in the Humanities and Social Sciences with special interest in automated text analysis. Knowledge of coding is not a prerequisite. As an introductory course, it will use code but the focus is instead on the critical analysis of the method and its usability. 
+The workshop targets especially researchers and students in the Humanities and Social Sciences with interest in automated text analysis. Knowledge of coding is not a prerequisite. As an introductory course, it will use code but the focus is instead on the critical analysis of the method and its usability. 
 
 ##### Facilitators: 
 
