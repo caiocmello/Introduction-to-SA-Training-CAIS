@@ -18,11 +18,22 @@ Gaurish Thakkar is a research fellow at the University of Zagreb (Faculty of Hum
 - [Dr. Johannes Breuer](https://www.johannesbreuer.com/)<br>
 Dr. Breuer is a senior researcher in the team Survey Data Augmentation at GESIS - Leibniz Institute for the Social Sciences (Department Survey Data Curation) in Cologne, Germany, and (co-)leads the team Research Data & Methods at the Center for Advanced Internet Studies (CAIS).
 
+### Agenda
+
+Schedule 
+
+- 10:00 - Round of introductions
+- 10:15 - Session 1 (part one) - What’s sentiment analysis?
+- **11:00 - 11:10 Break**
+- 11:10 - Session 1 (part two) & Session 2 - Case-study & Emotion Analysis 
+- **12:00 - 12:10 Break**
+- 12:10 - Session 3 - Sentiment analysis beyond text: The curious case of emojis
+- 13:00 - Conclusion
 
 
-### Agenda 
+### Content 
 
-#### Session 1
+#### [Session 1](session_1/Session1_SentimentAnalysis.ipynb)
 - Sentiment Analysis
   - What's sentiment analysis
   - How's it been developed? 
@@ -33,7 +44,7 @@ Dr. Breuer is a senior researcher in the team Survey Data Augmentation at GESIS 
   - Multilinguality: challenges of working beyond English language
   - Explainability: what's behind the black-boxes?
     
-#### Session 2
+#### [Session 2](session_2/Session2_NewsMood.ipynb)
 
 - Case-study: Is sentiment in the news becoming more negative over time? 
   - Temporal sentiment analysis of news headlines of BBC articles
