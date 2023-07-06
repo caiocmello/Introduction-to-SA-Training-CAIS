@@ -80,3 +80,8 @@ Schedule
 - [Living with Machines](https://images.squarespace-cdn.com/content/v1/5d23a26521738200016f8cb6/ec82b182-6351-4f3f-8e37-6436e8187e3e/BL_INDUSTRY_FINAL2002.jpg?format=1000w) | 
 Exhibition 'Visualising Victorian News', British Library (2022) 
 Designer: [Ciaran Hughes](https://www.ciaranhughes.design/)
+
+#### Basic programming skills
+- [Working with text files in Python](https://programminghistorian.org/en/lessons/working-with-text-files)
+- [Introduction to Jupyter Notebooks](https://programminghistorian.org/en/lessons/jupyter-notebooks)
+- [Web scraping: collecting data from the internet](https://programminghistorian.org/en/lessons/?topic=web-scraping)
