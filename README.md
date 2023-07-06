@@ -33,8 +33,8 @@ Schedule
 
 ### Content 
 
-#### [Session 1](session_1/Session1_SentimentAnalysis.ipynb)
-- Sentiment Analysis
+#### Session 1
+- [Sentiment Analysis](session_1/Session1_SentimentAnalysis.ipynb)
   - What's sentiment analysis
   - How's it been developed? 
   - Applications in research 
@@ -44,9 +44,9 @@ Schedule
   - Multilinguality: challenges of working beyond English language
   - Explainability: what's behind the black-boxes?
     
-#### [Session 2](session_2/Session2_NewsMood.ipynb)
+#### Session 2
 
-- Case-study: Is sentiment in the news becoming more negative over time? 
+- [Case-study: Is sentiment in the news becoming more negative over time?](session_2/Session2_NewsMood.ipynb) 
   - Temporal sentiment analysis of news headlines of BBC articles
   - Task: Data Analysis
 - Emotion Analysis
